@@ -1,0 +1,419 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Court at Kensington a poem on the most celebrated beauties there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34765</idno>
+            <idno type="STC">Wing C6585</idno>
+            <idno type="STC">ESTC R37668</idno>
+            <idno type="EEBO-CITATION">16999460</idno>
+            <idno type="OCLC">ocm 16999460</idno>
+            <idno type="VID">105683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1612:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Court at Kensington a poem on the most celebrated beauties there.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105683:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:105683:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>THE COURT AT KENSINGTON: A POEM ON THE <hi>Moſt Celebrated</hi> BEAUTIES <hi>there.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:105683:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="3" facs="tcp:105683:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>THE COURT AT KENSINGTON.</head>
+            <lg>
+               <l>GIve me a Genius fill'd with ſoft Delight,</l>
+               <l>Of Beaut'ous Forms, bleſt Images of Light;</l>
+               <l>Teach me, <hi>Apollo,</hi> ſome harmonious Song,</l>
+               <l>And with thy Heav'nly Lays Inſpire my Tongue;</l>
+               <l>To the dark Shades of Night let Satyr fly,</l>
+               <l>Nor once approach the Luſtre of the Beamy Sky;</l>
+               <l>But with ſtrict Guard watch o'er my erring Pen,</l>
+               <l>Conduct me thro' the winding Maze of Things and Me;</l>
+               <l>Inform my Reaſon in the Lab'rinths of the Great,</l>
+               <l>And let my Muſe diſcern her Duty in the State:</l>
+               <l>Freed from the noxious Fumes that Wine procure,</l>
+               <l>And tempted by thoſe Charms that are more pure,</l>
+               <l>I to <hi>Britania</hi>'s Court direct my way,</l>
+               <l>Urg'd by Deſire to go, by Beauty to to obey.</l>
+            </lg>
+            <pb n="4" facs="tcp:105683:3"/>
+            <!-- PDF PAGE 45 -->
+            <lg>
+               <l>Behold the happy Monarch from his Throne!</l>
+               <l>Not under the Fatigues and Preſſures of a Crown,</l>
+               <l>But far more Bleſt and Glorious does appear,</l>
+               <l>His Guard, a Train of Noble Beauties near,</l>
+               <l>That gild with Radiant Light the Northern Hemiſphere.</l>
+               <l>So Awful, ſo Majeſtick <hi>WILLIAM</hi> ſtood.</l>
+               <l>Form'd like a Man, with all the Luſtre of a God,</l>
+               <l>Unequall'd Great, beyond example Good!</l>
+               <l>His ev'ry Smile freſh Beams of Joy diſpence.</l>
+               <l>Whilſt all the Beaut'ous Crowd confeſs its Influence;</l>
+               <l>An Univerſal Soul of Love ſits on His Brow,</l>
+               <l>Which kindly does thro' all the Mechaniſm flow;</l>
+               <l>Softneſs of Nature in the Depth of Thought,</l>
+               <l>The God join'd with the Man ſo interwrought;</l>
+               <l>Buſineſs and Pleaſure both in him agree,</l>
+               <l>And make the moſt delightful Harmony.</l>
+               <l>Yet ſtill unſhaken does the Hero Reign,</l>
+               <l>Midſt all the Glories of his Pompous Train;</l>
+               <l>With equal ballance judging ev'ry Sport,</l>
+               <l>A very Stoick in the Revels of a Court.</l>
+               <l>But tell my Muſe how innocence Delights,</l>
+               <l>And how 'tis exemplary Majeſty invites;</l>
+               <l>How when the Awful Monarch moves along,</l>
+               <l>How pleaſingly appears the Charming Throng:</l>
+               <l>And what bleſt Scene can more delight the Fair,</l>
+               <l>Than ſmiling Majeſty when Regent there:</l>
+               <pb n="5" facs="tcp:105683:3"/>
+               <!-- PDF PAGE 45 -->
+               <l>Like <hi>Phaebus</hi> darting Splendour from His Eyes,</l>
+               <l>Whoſe piercing Beams quick as the Lightning flies:</l>
+               <l>Nor do they dazle leſs than they amaze,</l>
+               <l>All who with Awe and Admiration gaze:</l>
+               <l>Yet ſtill with Pleaſure view the Royal Man,</l>
+               <l>Who bears more Glory that all other Mortals can;</l>
+               <l>Replete with Majeſty and a Seraphick Mind,</l>
+               <l>With Mildneſs and Eternal Goodneſs kind:</l>
+               <l>Kind as a Monarch to his Subjects dear,</l>
+               <l>And as a Heroe merciful in War;</l>
+               <l>Not as a Courtier falſe, but as a Friend ſincere.</l>
+               <l>Prudently wiſe, not Crafty in the State,</l>
+               <l>Nor yet ſo vain to truſt precarious Fate:</l>
+               <l>Sov'reign Commander o'er His own vaſt Will;</l>
+               <l>Slow to Revenge, and ſure to act no Ill:</l>
+               <l>Tho' Preſt with anxious Cares, yet to the Fair</l>
+               <l>Obliging, Affable, all Debonair;</l>
+               <l>With chearful Innocence not lightly gay,</l>
+               <l>To Beauties ſhrine does ſome: Oblations pay,</l>
+               <l>And ſquanders a few Hours of Care away.</l>
+               <l>Pleaſure ſits light without, whilſt ſtill within</l>
+               <l>Somewhat Divine appears more than the King:</l>
+               <l>Like th'upper Regions of refined Air,</l>
+               <l>B'ove Storms and Tempeſts ſtill ſerene and clear;</l>
+               <l>Whilſt plac'd below his Subjects, bleſs their Fate,</l>
+               <l>And own Him eminently Good as Great;</l>
+               <l>In Juſtice Rules not wanting, nor Severe</l>
+               <l>No ways Intemperate, nor yet Auſtere:</l>
+               <pb n="6" facs="tcp:105683:4"/>
+               <!-- PDF PAGE 46 -->
+               <l>Born mild by Nature, but by Art improv'd,</l>
+               <l>The Myſtery whereby he's fear'd and lov'd.</l>
+            </lg>
+            <lg>
+               <l>Go on my Muſe, next to Illuſtrious <hi>Jove,</hi>
+               </l>
+               <l>Declare <hi>Minerva</hi> Reigns the Queen of Love;</l>
+               <l>Bount'ous <hi>Minerva,</hi> whoſe true Merits claim,</l>
+               <l>A larger Character from buſie Fame;</l>
+               <l>Who conſcious of her Guilt, yet dare not hide</l>
+               <l>Th' atteſted Goodneſs which her Actions guide.</l>
+               <l>Glorious Examples which to Vertue give,</l>
+               <l>Their Luſtre and Rewards whereby they live;</l>
+               <l>How much engaging then muſt Beauty be,</l>
+               <l>Enrich'd with ſuch a gracious Deity;</l>
+               <l>And with what Pleaſure muſt Mankind adore,</l>
+               <l>When Innocence and Vertue have their native Pow'r:</l>
+               <l>But when ſuch Excellence Commands my Muſe;</l>
+               <l>She claps her modeſt Wings, but can't refuſe</l>
+               <l>To ſoar in ſuch a bright exalted Sky,</l>
+               <l>Where the vaſt Height compels her on to fly;</l>
+               <l>Forc'd beyond her own Altitude to riſe,</l>
+               <l>And view what dazles ſtill her wond'ring Eyes:</l>
+               <l>With what Coeleſtial Fire does Royalty appear;</l>
+               <l>Bleſt with thoſe Graces that Adorn the Fair,</l>
+               <l>And doubly bleſt <hi>Minerva</hi> is beyond compare,</l>
+               <l>The Happy Parent of th' Illuſtrious Heir!</l>
+               <l>Born to be Great, and by example Bred;</l>
+               <l>Fit for the World's Dictator and <hi>Britannia</hi>'s Head.</l>
+               <pb n="7" facs="tcp:105683:4"/>
+               <!-- PDF PAGE 46 -->
+               <l>In Virtue's Schools He firſt learns to obey,</l>
+               <l>And then by Honour's Laws how Scepters he may ſway;</l>
+               <l>Pregnant in Wit, his eallow Years advance,</l>
+               <l>Nor fears the Infant Hero yet the temper'd Lance,</l>
+               <l>Or His Competitor for Empire <hi>Burgundy</hi> of <hi>France.</hi>
+               </l>
+               <l>So like our Pious Chief He Virtue's Laws approves,</l>
+               <l>And what the common Youth declines, he loves:</l>
+               <l>Heroick Actions claim his chief delight,</l>
+               <l>Yet Softneſs guides and melts the Hero quite;</l>
+               <l>Beauty ſo tenderly has touch'd him ev'ry where;</l>
+               <l>The God has task'd himſelf to make a Pair,</l>
+               <l>And ſhow a Heroine equally as Fair.</l>
+               <l>Ten thouſand Graces in his Actions lyes,</l>
+               <l>And twice Ten thouſand wanton in his Eyes;</l>
+               <l>Whilſt ev'ry Charm creates a ſecret Joy,</l>
+               <l>A <hi>Venus</hi>'s ſelf had dreſt the Artful Boy:</l>
+               <l>Such was <hi>Aſcanius,</hi> when in <hi>Aeneas</hi> Name,</l>
+               <l>He kindl'd <hi>Dido</hi>'s Breaſt with Love's ſoft Flame;</l>
+               <l>Such happy Paſſions from his Nature flow,</l>
+               <l>As gen'rous Virtue do innately ſhow:</l>
+               <l>A Noble Soul, free from all Courtly Vice,</l>
+               <l>Eaſie, Sincere, and void of Artifice;</l>
+               <l>Yet pleaſant, gay, with Gen'rous Freedom bleſt,</l>
+               <l>Whilſt Reaſons, Laws, are gravely on his Mind impreſt.</l>
+            </lg>
+            <lg>
+               <l>But on, my trifling Muſe, leſt here thou ſeem,</l>
+               <l>T'abuſe with thy unskilful Hand this noble Theme;</l>
+               <pb n="8" facs="tcp:105683:5"/>
+               <!-- PDF PAGE 47 -->
+               <l>Yet ſtill with ſacred Awe approach that Shrine,</l>
+               <l>Where ſuch a Gallaxie of Beauties ſhine;</l>
+               <l>Where Virtue, Modeſty and improv'd Wit,</l>
+               <l>Do in the preſence of bright Honour ſit:</l>
+               <l>Where Pleaſure can no wanton Charms beſtow,</l>
+               <l>But ſuch as from delightful Innocence do flow;</l>
+               <l>And ſuch pure Thoughts as Virgin Hearts may know:</l>
+               <l>Free from the Faults of faſhionable Vice,</l>
+               <l>Yet eaſie Virtue, not formal or preciſe:</l>
+               <l>So Beauty from its innocence true Luſtre gains;</l>
+               <l>And tho' once fetter'd by Inglorious Chains,</l>
+               <l>Now abſolute, it like a Monarch Reigns.</l>
+               <l>Reaſon has once again poſſeſt her place,</l>
+               <l>And baniſh'd Folly from the beaut'ous Race:</l>
+               <l>'Tis Viſion all, and ſhuns Diviner Light,</l>
+               <l>For Shades muſt vaniſh where they ſhine ſo bright.</l>
+               <l>Pure flames of Love conſume the dull deſires,</l>
+               <l>And melt away the Droſs by more Coeleſtial fires.</l>
+               <l>Hence the fair Sex like Goddeſſes appear,</l>
+               <l>Whilſt Reaſon for their guide—</l>
+               <l>Strict Virtue they as for a Garment wear,</l>
+               <l>Mankind their Preſence do with Awe revere:</l>
+               <l>Whilſt Art their modeſt Excellence diſplays,</l>
+               <l>And Nature ſhows it ſelf a Thouſand ways.</l>
+               <l>So <hi>O</hi>—<hi>ds</hi> graceful Mean attracts all Eyes,</l>
+               <l>And Nature needs not ask from Art ſupplies;</l>
+               <l>An Air of Grandeur ſhines thro' ev'ry part,</l>
+               <l>And in her beaut'ous Form is plac'd the nobleſt Heart:</l>
+               <pb n="9" facs="tcp:105683:5"/>
+               <!-- PDF PAGE 47 -->
+               <l>In vain Mankind adore, unleſs ſhe were</l>
+               <l>By Heaven made leſs Virt'ous or leſs Fair.</l>
+               <l>
+                  <hi>B</hi>—<hi>y</hi>'s bright Charms infuſes ſoft Delight,</l>
+               <l>And like <hi>Prometheus</hi> raiſes Fire at ſight;</l>
+               <l>Such Goodneſs dwells within her heavenly Breaſt,</l>
+               <l>As cannot be but by her ſelf expreſt:</l>
+               <l>No other human Medium can ſuffice,</l>
+               <l>T'expreſs th' Idieas of her beaut'ous Eyes.</l>
+               <l>Such Airs has <hi>R</hi>—<hi>gh</hi> to engage Mankind,</l>
+               <l>The God no equal to her Charms can find;</l>
+               <l>Soft ſounds of Harmony run thro' her Soul,</l>
+               <l>And nought but Muſick's voice dare there controul:</l>
+               <l>By gentle whiſpers Reaſon does take place,</l>
+               <l>And Beauty plays the Tyrant in her Face.</l>
+               <l>
+                  <hi>G</hi>—<hi>n</hi> has Beauty and a modeſt Air,</l>
+               <l>Like Angels when in Human ſhapes they'ppear,</l>
+               <l>Delude us Mortals but reſemble her;</l>
+               <l>Like hers their matchleſs Faces look divine,</l>
+               <l>Light ſhines without, all Goodneſs dwells within.</l>
+               <l>Whilſt <hi>C</hi>—<hi>l</hi>'s ſhape purſues th'admirer home,</l>
+               <l>And animates the Flame where the does come;</l>
+               <l>Nor can there be leſs Beauty reigning there,</l>
+               <l>Where no Complexion is more amiably fair.</l>
+               <l>The Graces all on <hi>S</hi>—<hi>t</hi> attend,</l>
+               <l>And Beauty does to Virtue ſtill freſh Honour ſend;</l>
+               <l>The charming Sex are pleas'd to yield to her,</l>
+               <l>That's with the Higheſt, Noble, Rich and Fair.</l>
+               <pb n="10" facs="tcp:105683:6"/>
+               <!-- PDF PAGE 48 -->
+               <l>Eſſential Ornaments that veſt the Great,</l>
+               <l>And which did ever on the <hi>P</hi>—<hi>ys</hi> wait;</l>
+               <l>Not in meer Pageantry and publick Show.</l>
+               <l>But in ſuch Actions as from Virtue flow:</l>
+               <l>No ſervile Greatneſs does from hence appear,</l>
+               <l>But trueſt Honour ſpreads its Influence here;</l>
+               <l>Nor does the ſacred marks of Goodneſs ſhine,</l>
+               <l>In <hi>R</hi>—<hi>d</hi>'s Face leſs Glorious or Divine;</l>
+               <l>Graceful her meen is wrought in ev'ry turn,</l>
+               <l>Charming her Air and elegant her Form:</l>
+               <l>Thus moves the Machine in her lofty Sphere,</l>
+               <l>Too humble to be proud, too high to fear.</l>
+               <l>So <hi>C</hi>—<hi>lls</hi> bloom, prides more than Art can grace,</l>
+               <l>Whilſt Heaven's Brightneſs glitters in her Face;</l>
+               <l>Looks like the bluſhing Morn her Image bears,</l>
+               <l>And winning modeſty her Nature wears;</l>
+               <l>Gentle to all, obſequious to the Great;</l>
+               <l>By Virtues Rules her Boſom does dilate.</l>
+               <l>But <hi>V</hi>—<hi>r</hi>'s Airs a chearful Soul does raiſe,</l>
+               <l>And elevates my Muſe to ſing her Praiſe;</l>
+               <l>Sometimes her lovely Eyelids does depreſs,</l>
+               <l>A ſtrange becoming penſive heavineſs:</l>
+               <l>Yet ſtill the ſame engaging happy Face,</l>
+               <l>Has always ſome new turns—</l>
+               <l>Something that adds a more peculiar Grace.</l>
+               <l>
+                  <hi>W</hi>—<hi>lg</hi>—<hi>ve</hi> has Wit and Shape, and irreſiſtleſs Airs,</l>
+               <l>Has Dreſs engaging, void of Artful Cares:</l>
+               <pb n="11" facs="tcp:105683:6"/>
+               <!-- PDF PAGE 48 -->
+               <l>With ſuch a mien ſhe moves with ſuch a grace,</l>
+               <l>'Tis difficult for human Wit t'expreſs,</l>
+               <l>Which pleaſes moſt, her Looks her Shape, her Dreſs:</l>
+               <l>Nor muſt we undiſtinguiſh'd paſs by <hi>Sp</hi>—<hi>r</hi>'s mien,</l>
+               <l>
+                  <hi>Sp</hi>—<hi>r</hi> the beaut'ous Portrait of the <hi>Paphian</hi> Queen.</l>
+               <l>Bleſt Soul of Love and Beauties glorious Sun,</l>
+               <l>Whoſe univerſal Beams on all Mankind have ſhone;</l>
+               <l>Whilſt under their kind Influence ſtill we hope in vain,</l>
+               <l>The Sexes Guardian Angels Virtue does maintain.</l>
+               <l>So <hi>B</hi>—<hi>ng</hi>—<hi>n</hi> the God's peculiar Care,</l>
+               <l>In not leſs Good and Virtuous than ſhe's Fair;</l>
+               <l>Becoming Airs from her Indulgence grow,</l>
+               <l>And ſhining Virtues her true Honour ſhow:</l>
+               <l>Mildneſs of Nature in each Feature's dreſt,</l>
+               <l>And nought but ſoftneſs dwells within her Breaſt:</l>
+               <l>In ev'ry line of her unblemiſh'd Face,</l>
+               <l>Are lodg'd the Characters of her Angelic Race</l>
+               <l>But whilſt each Beauty on as equal claim,</l>
+               <l>More than my Muſe dare Father upon Fame:</l>
+               <l>Endleſs in Numbers woud the Circle prove,</l>
+               <l>To trace theſe beaut'ous Images of Love.</l>
+               <l>How <hi>L</hi>—<hi>e</hi>'s Complexion, and how <hi>H</hi>—<hi>d</hi>'s Smile,</l>
+               <l>Grace the Fame of Albione happy Iſle do</l>
+               <l>So <hi>L</hi>—<hi>d</hi>—<hi>d</hi>'s killing Eyes, and <hi>B</hi>—<hi>s</hi> Air,</l>
+               <l>Oblige Mankind to own'em Heavenly Fair.</l>
+               <l>
+                  <hi>Gran</hi>—<hi>m, M</hi>—<hi>k</hi>—<hi>n, S</hi>—<hi>le,</hi> all their Charms diſpence,</l>
+               <l>Whilſt <hi>R</hi>—<hi>ll</hi> adds her Pow'rs of Eloquence,</l>
+               <l>And <hi>C</hi>—<hi>ven</hi>—<hi>ſh</hi> ſupplies the World with Senſe.</l>
+               <pb n="12" facs="tcp:105683:7"/>
+               <!-- PDF PAGE 49 -->
+               <l>The Beauties that from <hi>B</hi>—<hi>d</hi>—<hi>ll</hi>'s Eyes do ſtray,</l>
+               <l>Diffuſe their Charms as Orient light the day;</l>
+               <l>And <hi>V</hi>—<hi>re</hi> deſerves more than the World can pay.</l>
+               <l>
+                  <hi>Rob</hi>—<hi>ts</hi> and <hi>D</hi>—<hi>g</hi>—<hi>y</hi> with the brighteſt Beauties ſhine,</l>
+               <l>And <hi>F</hi>—<hi>ld</hi>—<hi>g</hi>'s Goodneſs makes her form Divine.</l>
+               <l>Give <hi>C</hi>—<hi>ter</hi>—<hi>t</hi> Wit, ſtill <hi>P</hi>—<hi>g</hi>—<hi>t</hi> will have ſenſe,</l>
+               <l>And <hi>R</hi>—<hi>te</hi>—<hi>ffe</hi> ore Mankind a killing Influence.</l>
+               <l>
+                  <hi>W</hi>—<hi>dhm</hi> and <hi>B</hi>—<hi>rt</hi>—<hi>e</hi> both exactly Good,</l>
+               <l>As in their Virtuous Actions in their Blood.</l>
+               <l>
+                  <hi>G</hi>—<hi>y, M</hi>—<hi>yn</hi>—<hi>d, S</hi>—<hi>dn</hi>—<hi>y, F</hi>—<hi>rm</hi>—<hi>r,</hi> all appear,</l>
+               <l>The ſame by Art what they by Nature are;</l>
+               <l>Lovely and Bright as unmixt Honour ſhines,</l>
+               <l>That riſes not by proud or ſervile Arts declines:</l>
+               <l>Such blooming Beauty adds a Heavenly Grace,</l>
+               <l>To <hi>J</hi>—<hi>ffr</hi>—<hi>ys</hi> ſmiling look, and <hi>Th</hi>—<hi>p</hi>—<hi>n</hi>'s Face;</l>
+               <l>As cannot be but by that Grace expreſt,</l>
+               <l>In <hi>P</hi>—<hi>l</hi>—<hi>t</hi>'s mien, and <hi>T</hi>—<hi>lb</hi>—<hi>t</hi>'s noble Breaſt:</l>
+               <l>Real Perfections which in both theſe live,</l>
+               <l>Beyond what little Arts of Flattery can give:</l>
+               <l>Untainted Honours from their Virtue flow,</l>
+               <l>And the true Marks of their Diſtinction ſhow.</l>
+               <l>But was I <hi>Paris,</hi> I could not declare</l>
+               <l>Which is moſt Noble, Virtuous or moſt Fair;</l>
+               <l>So equal Beauty, Virtue, Honour is deſtowd,</l>
+               <l>No one can here be call'd more Beaut'ous or leſs Good.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105683:7"/>
+            <!-- PDF PAGE 49 -->
+         </div>
+      </body>
+   </text>
+</TEI>
